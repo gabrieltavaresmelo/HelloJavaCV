@@ -3,7 +3,7 @@ HelloJavaCV
 
 Aplicação-exemplo para detecção facial utilizando o wrapper JavaCV.
 
-Disciplina: Sistemas Multimídia - IFCE
+Instituição de Ensino: IFCE
 
 Biblioteca: OpenCV (Wrapper: JavaCV)
 
